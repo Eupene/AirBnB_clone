@@ -1,5 +1,7 @@
 AirBnB Clone Project
+
 Introduction
+
 In this project, the group members, Eunice Hogba and Zerebel Tanu built the foundation for a web application inspired by AirBnB. Our goal is to create a command-line interpreter that manages AirBnB objects, laying the groundwork for future development stages such as HTML/CSS templating, database storage, API integration, and front-end design.
 
 Project Overview
